@@ -3,3 +3,19 @@
   background: rgba(255,255,255,.2);
   margin: 16px;
 }
+
+.logo {
+ height: 32px;
+ background: rgba(255,255,255,.2);
+ margin: 16px;
+}
+.ant-carousel .slick-slide {
+ text-align: center;
+ height: 100%;
+ line-height: 100%;
+ background: #364d79;
+ overflow: hidden;
+}
+.ant-carousel .slick-slide h3 {
+ color: #fff;
+}
